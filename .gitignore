@@ -1,0 +1,3 @@
+# ignore .pyc and account.py
+*.pyc
+account.py
